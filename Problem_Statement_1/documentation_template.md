@@ -9,6 +9,8 @@
 To encrypt a message by replacing each character with characters ahead of them(with a given shift value)
 Also decryption using same rules.
 LEVEL 2 : auto decryption using character frequency technique
+LEVEL 3 : encryption and decryption using a keyword to change the shift value for each letter
+BONUS : decrypt code of level 3 without knowing the keyword (I tried but was unable to think of a logic for this...)
 
 **Key concepts involved:** 
 
@@ -21,6 +23,7 @@ LEVEL 2 : auto decryption using character frequency technique
 ### **New Concepts I Discovered**
 - Learnt to use github 
 - Learnt to take string inputs in C++ using getline function
+- many new terminologies like base64-encoding ,etc
 
 ### **How I Applied These Concepts**
 
